@@ -26,4 +26,4 @@ only the most important were put on user direct control.
 To speed things, change speed.
 
 ## ACKNOWLEDGES
-Based on the work of shingkid with follow the leader and re-routing exit workload
+Based on the work of shingkid with addons such as  follow the leader and re-routing exit workload
