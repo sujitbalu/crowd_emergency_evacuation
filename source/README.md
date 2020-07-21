@@ -24,3 +24,6 @@ Some many other parameters can be easily set, but to avoid a cluttered GUI envir
 only the most important were put on user direct control.
 
 To speed things, change speed.
+
+PS: Based on work of shingkid with follow the leader and re-routing exit
+
